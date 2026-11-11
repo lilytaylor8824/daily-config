@@ -1,0 +1,2 @@
+# daily-config
+random notes
